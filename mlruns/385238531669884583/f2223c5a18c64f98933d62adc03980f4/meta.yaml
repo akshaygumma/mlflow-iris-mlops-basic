@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/385238531669884583/f2223c5a18c64f98933d62adc03980f4/artifacts
+deleted_time: 1748500576514
+end_time: 1748500434401
+entry_point_name: ''
+experiment_id: '385238531669884583'
+lifecycle_stage: deleted
+run_id: f2223c5a18c64f98933d62adc03980f4
+run_name: nosy-roo-369
+run_uuid: f2223c5a18c64f98933d62adc03980f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748500434365
+status: 4
+tags: []
+user_id: akshayg

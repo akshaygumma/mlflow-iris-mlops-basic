@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/385238531669884583/145578ba7bfd47e2ba51be7c68eb3450/artifacts
+end_time: 1748500594495
+entry_point_name: ''
+experiment_id: '385238531669884583'
+lifecycle_stage: active
+run_id: 145578ba7bfd47e2ba51be7c68eb3450
+run_name: secretive-ray-409
+run_uuid: 145578ba7bfd47e2ba51be7c68eb3450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748500590139
+status: 3
+tags: []
+user_id: akshayg

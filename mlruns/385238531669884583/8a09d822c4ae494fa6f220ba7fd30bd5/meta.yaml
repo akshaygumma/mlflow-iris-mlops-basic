@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/385238531669884583/8a09d822c4ae494fa6f220ba7fd30bd5/artifacts
+deleted_time: 1748500576511
+end_time: 1748500452449
+entry_point_name: ''
+experiment_id: '385238531669884583'
+lifecycle_stage: deleted
+run_id: 8a09d822c4ae494fa6f220ba7fd30bd5
+run_name: adventurous-crow-463
+run_uuid: 8a09d822c4ae494fa6f220ba7fd30bd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748500452407
+status: 4
+tags: []
+user_id: akshayg

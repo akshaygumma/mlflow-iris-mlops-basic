@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/385238531669884583/b1e1ee01022046bc98375f8c47724586/artifacts
+deleted_time: 1748500576500
+end_time: 1748500488436
+entry_point_name: ''
+experiment_id: '385238531669884583'
+lifecycle_stage: deleted
+run_id: b1e1ee01022046bc98375f8c47724586
+run_name: gregarious-gnat-892
+run_uuid: b1e1ee01022046bc98375f8c47724586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748500488394
+status: 4
+tags: []
+user_id: akshayg

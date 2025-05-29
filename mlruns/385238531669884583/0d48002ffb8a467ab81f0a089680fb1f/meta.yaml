@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/385238531669884583/0d48002ffb8a467ab81f0a089680fb1f/artifacts
+deleted_time: 1748500576513
+end_time: 1748500445844
+entry_point_name: ''
+experiment_id: '385238531669884583'
+lifecycle_stage: deleted
+run_id: 0d48002ffb8a467ab81f0a089680fb1f
+run_name: luminous-goose-750
+run_uuid: 0d48002ffb8a467ab81f0a089680fb1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748500445804
+status: 4
+tags: []
+user_id: akshayg

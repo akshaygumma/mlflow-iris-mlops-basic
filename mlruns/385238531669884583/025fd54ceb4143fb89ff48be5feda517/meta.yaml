@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/385238531669884583/025fd54ceb4143fb89ff48be5feda517/artifacts
+deleted_time: 1748500576501
+end_time: 1748500466796
+entry_point_name: ''
+experiment_id: '385238531669884583'
+lifecycle_stage: deleted
+run_id: 025fd54ceb4143fb89ff48be5feda517
+run_name: bouncy-ram-615
+run_uuid: 025fd54ceb4143fb89ff48be5feda517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748500466762
+status: 4
+tags: []
+user_id: akshayg

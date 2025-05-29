@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/385238531669884583/2a7be1f6c9094c7abf75bec61539302f/artifacts
+deleted_time: 1748500576500
+end_time: 1748500505772
+entry_point_name: ''
+experiment_id: '385238531669884583'
+lifecycle_stage: deleted
+run_id: 2a7be1f6c9094c7abf75bec61539302f
+run_name: sedate-stork-14
+run_uuid: 2a7be1f6c9094c7abf75bec61539302f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748500505735
+status: 4
+tags: []
+user_id: akshayg
