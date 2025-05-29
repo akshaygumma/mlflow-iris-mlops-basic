@@ -1,0 +1,13 @@
+prefix=/Volumes/Workspace/Training/MLFlow/mlflow
+exec_prefix=/Volumes/Workspace/Training/MLFlow/mlflow
+libdir=/Volumes/Workspace/Training/MLFlow/mlflow/lib
+sharedlibdir=/Volumes/Workspace/Training/MLFlow/mlflow/lib
+includedir=/Volumes/Workspace/Training/MLFlow/mlflow/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
